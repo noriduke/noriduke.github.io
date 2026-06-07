@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+
+# Local working/reference files
+AGENTS.md
+full_works_old.json
+site_works_back.json
+assets/thumbs/novel/*.png
+admin.html
+admin.css
+admin.js
+
+# Environment/dependency noise
+.env
+.env.*
+node_modules/
