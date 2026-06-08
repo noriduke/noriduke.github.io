@@ -58,15 +58,6 @@
       "hero_face_x": 48
     },
     {
-      "id": "production-notes",
-      "name": "制作ノート",
-      "reading": "Production Notes",
-      "accent": "#58a6b8",
-      "summary": "試したこと、比べたこと、作ってみたこと",
-      "profile": "AI動画、生成ツール、執筆環境、制作プロセスの比較検証や作ってみた記録。作品そのものではなく、制作の裏側をまとめています。",
-      "image": "assets/character/archive.jpeg"
-    },
-    {
       "id": "uketara",
       "name": "アーカイブ",
       "reading": "Archive",
@@ -74,6 +65,15 @@
       "summary": "過去動画や分類前の作品",
       "profile": "初期に作った動画や、キャラクター単位では置きにくい過去作品をまとめています。",
       "image": "assets/character/archive.jpeg"
+    },
+    {
+      "id": "production-notes",
+      "name": "制作ノート",
+      "reading": "Production Notes",
+      "accent": "#58a6b8",
+      "summary": "試したこと、比べたこと、作ってみたこと",
+      "profile": "AI動画、生成ツール、制作プロセスの比較検証や作ってみた記録。作品そのものではなく、制作の裏側をまとめています。",
+      "image": "assets/character/notes.jpeg"
     }
   ],
   "works": [
