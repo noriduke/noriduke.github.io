@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noriduke.github.io/sitemap.xml
