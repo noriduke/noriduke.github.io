@@ -58,12 +58,21 @@
       "hero_face_x": 48
     },
     {
+      "id": "production-notes",
+      "name": "制作ノート",
+      "reading": "Production Notes",
+      "accent": "#58a6b8",
+      "summary": "試したこと、比べたこと、作ってみたこと",
+      "profile": "AI動画、生成ツール、執筆環境、制作プロセスの比較検証や作ってみた記録。作品そのものではなく、制作の裏側をまとめています。",
+      "image": "assets/character/archive.jpeg"
+    },
+    {
       "id": "uketara",
       "name": "アーカイブ",
       "reading": "Archive",
       "accent": "#8f8b84",
-      "summary": "その他の過去作品や制作の裏側",
-      "profile": "",
+      "summary": "過去動画や分類前の作品",
+      "profile": "初期に作った動画や、キャラクター単位では置きにくい過去作品をまとめています。",
       "image": "assets/character/archive.jpeg"
     }
   ],
@@ -507,7 +516,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/271372176/rectangle_large_type_2_f4ab039f231360b8983cc10a203d8204.png?width=800",
       "date": "2026-04-29",
       "description": "キャラクターが歌う動画を作る時、Kling AI か DomoAI を使うんですが、考えてみると「どちらか一方でしか作らない 」ので、そういえば比較したこと無かったなと。ので、シンプルに Kling AI と DomoAI を比較してみました。",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false
     },
     {
@@ -521,7 +530,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/268478594/rectangle_large_type_2_be746f56fc5ea229a9a231f30c2bec2a.png?width=800",
       "date": "2026-04-19",
       "description": "はじめに いろいろ使ってみた結果、僕が メインで使う AI は Notion AI になりました。",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false,
       "hidden": true
     },
@@ -536,7 +545,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/264952794/rectangle_large_type_2_5bd54568fefbcd3154b60021a39109f3.png?width=800",
       "date": "2026-04-05",
       "description": "以前リップシンク動画用のAIツールを検討した時の結論は、リップシンクの精度が高い DomoAI、高機能なので１つ選ぶなら Kling AI、歌わせるのは荷が重い Hedra、という結論だったんだけど、あれ？Hedra さん進化してない？",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false
     },
     {
@@ -550,7 +559,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/261032515/rectangle_large_type_2_2273e1f9d24ad0c3fd5e193d8972fe47.png?width=800",
       "date": "2026-03-22",
       "description": "はじめに",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false,
       "hidden": true
     },
@@ -565,7 +574,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/232157860/rectangle_large_type_2_2609e948e84caa30649e0baa26c9e89e.png?width=800",
       "date": "2025-11-30",
       "description": "最終的なベストの選択肢は未来にしか無いとして、AI動画生成の入口として選んで後悔のない選択肢はどれなのかなぁと。ちなみに僕の目的としては、ミュージックビデオ的なもの なので、リップシンク・静止画から動画、という用途を中心に比較しています。",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false
     },
     {
@@ -579,7 +588,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/231096946/rectangle_large_type_2_335f990425fc9283ccae5579c0a11f4b.png?width=800",
       "date": "2025-11-22",
       "description": "今回は３本目で、Midjourney や DomoAI での動画生成とリップシンクの比較 、DaVinci Resolve での動画編集あたりの話を書きます！よろしくお願いします！",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false
     },
     {
@@ -593,7 +602,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/231096622/rectangle_large_type_2_93d903a33bfd16ae48ad227b60a7f20f.png?width=800",
       "date": "2025-11-22",
       "description": "今回は２本目で、Midjourney でのキャラクター作りと Nano Banana での素材作りの話を書きます！よろしくお願いします！",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false
     },
     {
@@ -607,7 +616,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/231096430/rectangle_large_type_2_f5ece6a18d00c3b691de36350aa7c6d0.png?width=800",
       "date": "2025-11-22",
       "description": "扱うテーマが多いので３話に分割しました。今回は１本目ということで、作業の全体像とツール選定、Sunoでの楽曲生成の話を書きます！よろしくお願いします！",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false
     },
     {
@@ -621,7 +630,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/222518975/rectangle_large_type_2_383831935905c8bd01fcca73872f488d.png?width=800",
       "date": "2025-10-16",
       "description": "引き続き Gemini (Nano Banana) でのポートレート写真ぽい遊びに余念がない僕ですが（ 今回のテーマは２つです。 １．Gemini (Nano Banana) で 名作家具、描けるんちゃう ん？ ２．椅子に座る人物は横に長いので、 16:9 で出力したい んや",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false,
       "hidden": true
     },
@@ -636,7 +645,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/221976264/rectangle_large_type_2_105c54e61d761478a56f713b430b4403.png?width=800",
       "date": "2025-10-13",
       "description": "さてさて、人とは 話題になっていた Sora2 の招待コードを入手したので、しばらく遊んでみました。 いやこれ本当に世の中が変わってまうがな、が第一印象。プロユースとしてはまだ難しい面もありそうですが、最早それは（明らかに短い）時間の問題でしかなさそう。これから人は何をして生きていくんですかね。",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false,
       "hidden": true
     },
@@ -651,7 +660,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/218127147/rectangle_large_type_2_82e990b7ceaa93e5b292103d23566f1a.png?width=800",
       "date": "2025-09-21",
       "description": "【2025/09/29 追記】投稿後にも検証を続けたところ、初稿では説明やプロンプトが不十分だと判明したので、追記修正しています。 前書き",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false,
       "hidden": true
     },
@@ -666,7 +675,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/215962440/rectangle_large_type_2_cf3c23949645fd0fdbc4d28732d45c98.png?width=800",
       "date": "2025-09-16",
       "description": "Gemini、お前… 控えめに言って最高だったぜ。",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false,
       "hidden": true
     },
@@ -681,7 +690,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/212123321/rectangle_large_type_2_846eaa636a4961330b21b134eb0f5899.jpeg?width=800",
       "date": "2025-09-01",
       "description": "どういう事だってばよ？ 再会は偶然に",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false,
       "hidden": true
     },
@@ -696,7 +705,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/165762164/rectangle_large_type_2_20e8ce2d293eca3a0bd584e52be6cac8.jpeg?width=800",
       "date": "2024-12-16",
       "description": "お前、すっかり変わっちまったな… あの頃のお前（iPhone X）はさ、写真は決して得意じゃなかったけど、小さいレンズで一生懸命だったよな。写真でミラーレスに負けたっていいんだ、だってお前は電話できるじゃないか。有機ELディスプレイも Face ID も、ちょっと大きいノッチだって魅力的だったぜ。俺はそんな、ちょっと不器用だけど真っ直ぐなお前が好きだったんだ。。なのに今は…",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false,
       "hidden": true
     },
@@ -711,7 +720,7 @@
       "thumbnail_src": "https://assets.st-note.com/production/uploads/images/164694247/rectangle_large_type_2_beff367862ab835f1657fab9ed5758f0.jpeg?width=800",
       "date": "2024-12-07",
       "description": "はい、出落ち（？）です。 というか、さすがに７世代も機種変してないと機種変した時のインパクトが凄くて笑いました。ここ数年、iPhone X で事足りてるからいいじゃんってずっと思ってたんですよね。写真も別に綺麗に撮れるし、通話もネットもゲームも普通に出来るし。円安もあって iPhone 高いし。 って、思っていた僕が、",
-      "section": "uketara",
+      "section": "production-notes",
       "needs_review": false,
       "hidden": true
     },

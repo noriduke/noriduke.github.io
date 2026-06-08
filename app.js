@@ -45,13 +45,22 @@ const DEFAULT_CHARACTERS = [
     image: "",
   },
   {
+    id: "production-notes",
+    name: "制作ノート",
+    reading: "Production Notes",
+    accent: "#58a6b8",
+    summary: "試したこと、比べたこと、作ってみたこと",
+    profile: "AI動画、生成ツール、執筆環境、制作プロセスの比較検証や作ってみた記録。作品そのものではなく、制作の裏側をまとめています。",
+    image: "assets/character/archive.jpeg",
+  },
+  {
     id: "uketara",
-    name: "受け皿",
+    name: "アーカイブ",
     reading: "Archive",
     accent: "#8f8b84",
-    summary: "まだ誰のものでもない断片",
-    profile: "",
-    image: "",
+    summary: "過去動画や分類前の作品",
+    profile: "初期に作った動画や、キャラクター単位では置きにくい過去作品をまとめています。",
+    image: "assets/character/archive.jpeg",
   },
 ];
 
@@ -82,6 +91,12 @@ const TYPE_LABELS = {
   video: "Video",
   novel: "Novel",
   note: "Note",
+};
+
+const NON_CHARACTER_SECTION_IDS = new Set(["production-notes", "uketara"]);
+const SECTION_KICKERS = {
+  "production-notes": "Notes",
+  uketara: "Archive",
 };
 
 const topNav = document.querySelector("#topNav");
@@ -149,7 +164,7 @@ function resolveCharacters(configCharacters, works) {
 
 function renderTopNav(characters) {
   topNav.innerHTML = characters
-    .filter((character) => character.id !== "uketara")
+    .filter((character) => !NON_CHARACTER_SECTION_IDS.has(character.id))
     .map((character) => {
       const display = getCharacterDisplay(character);
       return `<a href="#${escapeAttribute(character.id)}">${escapeHtml(display.name)}</a>`;
@@ -171,7 +186,7 @@ function renderHero(works, characters, hero) {
     : "";
 
   heroFaces.innerHTML = characters
-    .filter((character) => character.id !== "uketara")
+    .filter((character) => !NON_CHARACTER_SECTION_IDS.has(character.id))
     .map((character) => {
       const display = getCharacterDisplay(character);
       const sectionWorks = works.filter((work) => workBelongsToCharacter(work, character.id));
@@ -211,7 +226,7 @@ function renderSections(works, characters) {
             ${character.image ? `<img src="${escapeAttribute(character.image)}" alt="${escapeAttribute(display.name)}" loading="lazy">` : ""}
             <div>
               <div class="profile-title">
-                <p class="section-kicker">${character.id === "uketara" ? "Archive" : "Character"}</p>
+                <p class="section-kicker">${SECTION_KICKERS[character.id] || "Character"}</p>
                 <h2 class="section-title" id="${escapeAttribute(character.id)}-title">${escapeHtml(display.name)}</h2>
                 ${display.reading ? `<p class="section-reading">${escapeHtml(display.reading)}</p>` : ""}
               </div>
