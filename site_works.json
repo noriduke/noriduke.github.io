@@ -78,6 +78,112 @@
   ],
   "works": [
     {
+      "id": "work-20260822131319-copy",
+      "title": "わたしに届くまで (Lyric Video Ver.) / 亜咲海",
+      "type": "song",
+      "platform": "youtube",
+      "character": "asami",
+      "url": "https://youtube.com/shorts/y2oBCrf1Czc",
+      "thumbnail": "assets/thumbs/song/todokumade_lyric.jpeg",
+      "thumbnail_src": null,
+      "thumbnail_position": 14,
+      "date": "2026-08-22",
+      "description": "2000〜2010年代風のエレクトロポップ。前作のスタジオ歌唱から一転、ポラロイドや手書きノートを切り貼りしたスクラップブック調の演出で、不器用な日常の瞬間を愛おしく残すノスタルジックな世界観を描きました。",
+      "section": "asami",
+      "needs_review": false,
+      "characters": [
+        "asami"
+      ]
+    },
+    {
+      "id": "work-20260822131319",
+      "title": "わたしに届くまで (Performance Ver.) / 亜咲海",
+      "type": "song",
+      "platform": "youtube",
+      "character": "asami",
+      "url": "https://youtube.com/shorts/5hWabU8HLH0",
+      "thumbnail": "assets/thumbs/song/todokumade_sing.jpeg",
+      "thumbnail_src": null,
+      "thumbnail_position": 17,
+      "date": "2026-08-02",
+      "description": "2000年代のユーロビートやアニソン風の高速エレクトロ・ポップ。理想通りにはいかなくても、不器用に泣き笑いしながら進む等身大の姿を描きました。ヘッドホン姿のY2K的なドール系ガーリーでキュートな世界観が弾けます。",
+      "section": "asami",
+      "needs_review": false,
+      "characters": [
+        "asami"
+      ]
+    },
+    {
+      "id": "tt-7603917885714615573",
+      "title": "Bitter-Sweet / 亜咲海 - ブラック・コーヒー、まだ 苦いけれど",
+      "type": "song",
+      "platform": "youtube",
+      "character": "asami",
+      "url": "https://youtube.com/shorts/KzAFX-3Rwys",
+      "thumbnail": "assets/thumbs/yt-bitter.jpeg",
+      "thumbnail_src": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osiLEBwxfAElS6CzABI0KQB7viAOiCAoMdAIt6~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/okCMcEEwO5AiSidvCnIr3xfoA6BqABAIzAQ0bL.image?dr=14573&x-expires=1780927200&x-signature=OZbpz2onWFoYaosxTrJMqqwK1d8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+      "date": "2026-02-07",
+      "description": "2000年代渋谷系やアニソンを彷彿とさせる、2ステップ・UKガラージ風J-POP。少し背伸びをして新しい世界へ踏み出す少女のときめきと、苦くも甘い「ビタースイート」な恋心を表現しました。",
+      "section": "asami",
+      "needs_review": false,
+      "thumbnail_position": 9,
+      "characters": [
+        "asami"
+      ]
+    },
+    {
+      "id": "work-20260822130539",
+      "title": "わたしに届くまで（小説 / 特設サイト）",
+      "type": "novel",
+      "platform": "site",
+      "character": "asami",
+      "url": "https://noriduke.github.io/todokumade/",
+      "thumbnail": "assets/thumbs/novel/todokumade.jpeg",
+      "thumbnail_src": null,
+      "thumbnail_position": 0,
+      "date": "2026-08-22",
+      "description": null,
+      "section": "asami",
+      "needs_review": false,
+      "characters": [
+        "asami"
+      ],
+      "episodes": 8,
+      "genre": "ヒューマンドラマ",
+      "synopsis": "やがて自分の名前が言えなくなる少女は、五人組アイドルグループの、いちばん端に立っていた。\n\n二番の入りの前、客席がふっと静かになる一瞬があった。\n歌が届いた一秒だけ、ここにいていいと思えた。\n仲間を想って、歌いながら泣いた夜もあった。\n\n台本にないことを口にしたその日から、「素が出てて好き」と言われるようになる。\n\n「素の亜咲海」は切り取られ、ファンが何度も再生した。\n「泣いた亜咲海」は切り取られ、どこかで何度も再生された。\n\n素と、その再現。\n涙と、その再生回数。\nここにいていいと思えた一秒と、その一秒の作り方。\n\nライブでは、同じものを求められた。\n鏡の前で、今日は何を言おうかと考える。素なのに、考えている。\n泣くつもりは、なかった。なんで泣いたのか、自分でも分からない。\n\n届いていたなら、それでよかった。\nそれだけの願いは、いつ、誰のものになったのか——。\n\nわたしって、どこからどこまでだっけ。",
+      "subtitle": "うまく泣けた夜だけ、よく眠れた。"
+    },
+    {
+      "id": "work-20260822134910-copy",
+      "title": "君のままでいいんだ (MV) / 若菜",
+      "type": "song",
+      "platform": "youtube",
+      "character": null,
+      "url": "https://youtube.com/shorts/WuSCJKmku8U",
+      "thumbnail": "assets/thumbs/song/kiminomama_lyric.jpeg",
+      "thumbnail_src": null,
+      "thumbnail_position": 27,
+      "date": "2026-07-26",
+      "description": "2000〜2010年代風の疾走感溢れるエレクトロ・ポップ。前作から一転、テニスコートや教室など学校の多彩な風景を舞台に少女の弾ける表情を描きました。「ありのままの君でいい」と優しく寄り添う全肯定ソングです。",
+      "section": "uketara",
+      "needs_review": false
+    },
+    {
+      "id": "work-20260822134910",
+      "title": "君のままでいいんだ (Performance Ver.) / 若菜",
+      "type": "song",
+      "platform": "youtube",
+      "character": null,
+      "url": "https://youtube.com/shorts/dQ5aKQbCF9A",
+      "thumbnail": "assets/thumbs/song/kiminomama_sing.jpeg",
+      "thumbnail_src": null,
+      "thumbnail_position": 39,
+      "date": "2026-07-13",
+      "description": "2010年前後のアイドル風の疾走感溢れるエレクトロ・ポップ。ピンク基調、Y2Kライクのビジュアルで優しい詩の世界観を表現しました。",
+      "section": "uketara",
+      "needs_review": false
+    },
+    {
       "id": "yt-mJuAAVgCHbI",
       "title": "【作業用BGM】30分のメロウJ-POP BGM｜作業・読書・リラックス｜ボーカルあり｜Blue Hour Café",
       "type": "song",
@@ -268,24 +374,6 @@
       "thumbnail_position": 5,
       "characters": [
         "nagisa"
-      ]
-    },
-    {
-      "id": "tt-7603917885714615573",
-      "title": "Bitter-Sweet / 亜咲海 - ブラック・コーヒー、まだ 苦いけれど",
-      "type": "song",
-      "platform": "youtube",
-      "character": "asami",
-      "url": "https://youtube.com/shorts/KzAFX-3Rwys",
-      "thumbnail": "assets/thumbs/yt-bitter.jpeg",
-      "thumbnail_src": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osiLEBwxfAElS6CzABI0KQB7viAOiCAoMdAIt6~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/okCMcEEwO5AiSidvCnIr3xfoA6BqABAIzAQ0bL.image?dr=14573&x-expires=1780927200&x-signature=OZbpz2onWFoYaosxTrJMqqwK1d8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
-      "date": "2026-02-07",
-      "description": "2000年代渋谷系やアニソンを彷彿とさせる、2ステップ・UKガラージ風J-POP。少し背伸びをして新しい世界へ踏み出す少女のときめきと、苦くも甘い「ビタースイート」な恋心を表現しました。",
-      "section": "asami",
-      "needs_review": false,
-      "thumbnail_position": 9,
-      "characters": [
-        "asami"
       ]
     },
     {

@@ -77,6 +77,7 @@ const PLATFORM_LABELS = {
   tiktok: "TikTok",
   note: "note",
   syosetu: "小説家になろう",
+  site: "特設サイト",
 };
 
 const PLATFORM_MARKS = {
@@ -84,6 +85,7 @@ const PLATFORM_MARKS = {
   tiktok: "TT",
   note: "nt",
   syosetu: "小",
+  site: "特",
 };
 
 const TYPE_LABELS = {

@@ -6,6 +6,7 @@ AGENTS.md
 full_works_old.json
 site_works_back.json
 assets/thumbs/novel/*.png
+assets/thumbs/song/*.png
 admin.html
 admin.css
 admin.js
